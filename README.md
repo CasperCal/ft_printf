@@ -10,7 +10,7 @@ Code was written in a style to be in accordance with the [normev3](https://githu
 
 # Usage
 
-Simple clone the code, and make to create a ft_printf.a file.
+Simply clone the code, and make to create a ft_printf.a file.
 
 By including the ft_printf.h file and compiling all C files in this folder together with it it can also be used without a makefile.
 
